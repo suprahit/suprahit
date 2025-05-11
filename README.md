@@ -5,9 +5,9 @@ Sou um desenvolvedor curioso e motivado procurando desenvolvimento pessoal.
 <img src="assets/slugcats.gif" alt="side Image" align="right" width="250" />
 
 - 📖 &nbsp;Estudando **Análise e Desenvolvimento de Sistemas** na Uninter.
-- 🖥️ &nbsp;Aprendendo **Rust, Python e C#**.
-- 🔭 &nbsp;Busco minha primeira oportunidade para impulsionar meu desenvolvimento profissional.
-- 🎮 &nbsp;No tempo livre costumo jogar, testar programas e aplicativos, ouvir música e praticar Blender.
+- 🖥️ &nbsp;Aprendendo **Rust e Python**.
+- 🔭 &nbsp;Atualmente trabalho como Assessor de Tecnologia no Banco do Brasil.
+- 🎮 &nbsp;No tempo livre costumo jogar, testar programas e aplicativos, ouvir música e praticar desenho.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprahit&size_weight=0.5&count_weight=0.5" height="200" align="right">
 
