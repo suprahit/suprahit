@@ -6,7 +6,7 @@ Sou um desenvolvedor curioso e motivado procurando desenvolvimento pessoal.
 
 - 📖 &nbsp;Estudando **Análise e Desenvolvimento de Sistemas** na Uninter.
 - 🖥️ &nbsp;Aprendendo **Rust**.
-- 🔭 &nbsp;Atualmente trabalho como Assessor de Tecnologia no Banco do Brasil.
+- 🔭 &nbsp;Atualmente trabalho como **Assessor de Tecnologia** no **Banco do Brasil**.
 - 🎮 &nbsp;No tempo livre costumo jogar, testar programas e aplicativos, ouvir música e praticar desenho.
 
 ### 🖥️ &nbsp;Workspace
