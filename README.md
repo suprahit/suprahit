@@ -19,6 +19,7 @@ Sou um desenvolvedor curioso e motivado procurando desenvolvimento pessoal.
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50"></a>
 <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50"></a>
 <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" height="50"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/odb/official-bash-logo/refs/heads/master/assets/Logos/Icons/SVG/128x128.svg" height="50"></a>
 
 ##
 
