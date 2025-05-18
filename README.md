@@ -9,23 +9,6 @@ Sou um desenvolvedor curioso e motivado procurando desenvolvimento pessoal.
 - 🔭 &nbsp;Atualmente trabalho como Assessor de Tecnologia no Banco do Brasil.
 - 🎮 &nbsp;No tempo livre costumo jogar, testar programas e aplicativos, ouvir música e praticar desenho.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprahit&size_weight=0.5&count_weight=0.5" height="200" align="right">
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=suprahit&color=701111&style=flat-square&label=Profile+Views" height="25">
-
-
-<br>
-<br>
-<br>
-
 ### 🖥️ &nbsp;Workspace
 
 #### Linguagens
