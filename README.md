@@ -25,13 +25,6 @@ Sou um desenvolvedor curioso e motivado procurando desenvolvimento pessoal.
 #### IDEs e Editores de Texto
 
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="50"></a>
-<a href="https://www.eclipse.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" height="50"></a>
-
-##
-
-#### S.O
-
-<a href="https://www.microsoft.com/pt-br/software-download/windows11"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" height="50"></a>
 
 ##
 
