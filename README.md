@@ -4,8 +4,8 @@ Sou um desenvolvedor curioso e motivado procurando desenvolvimento pessoal.
 
 <img src="assets/slugcats.gif" alt="side Image" align="right" width="250" />
 
-- 📖 &nbsp;Estudando **Análise e Desenvolvimento de Sistemas** na Uninter.
-- 🖥️ &nbsp;Aprendendo **Rust**.
+- 📖 &nbsp;Graduado em **Análise e Desenvolvimento de Sistemas** na Uninter.
+- 📖 &nbsp;Fazendo especialização de **Engenharia da Computação** na Uninter.
 - 🔭 &nbsp;Atualmente trabalho como **Assessor de Tecnologia** no **Banco do Brasil**.
 - 🎮 &nbsp;No tempo livre costumo jogar, testar programas e aplicativos, ouvir música e praticar desenho.
 
@@ -50,3 +50,4 @@ Sou um desenvolvedor curioso e motivado procurando desenvolvimento pessoal.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nogueira-ribeiro-256a51206/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/suprahit)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/zbeaterpvp)
+
